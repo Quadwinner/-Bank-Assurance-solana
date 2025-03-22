@@ -1,0 +1,10 @@
+/media/shubham/OS/for linux work/blockchain solana/bank-assurance-dapp/solana-program/target/debug/deps/libproc_macro2-e0422c9df49d22ba.rmeta: /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/media/shubham/OS/for linux work/blockchain solana/bank-assurance-dapp/solana-program/target/debug/deps/libproc_macro2-e0422c9df49d22ba.rlib: /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/media/shubham/OS/for linux work/blockchain solana/bank-assurance-dapp/solana-program/target/debug/deps/proc_macro2-e0422c9df49d22ba.d: /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs /home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs
+
+/home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/lib.rs:
+/home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/strnom.rs:
+/home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/fallback.rs:
+/home/shubham/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/proc-macro2-0.4.30/src/wrapper.rs:

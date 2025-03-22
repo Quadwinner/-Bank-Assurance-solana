@@ -1,0 +1,22 @@
+[package]
+name = "bank-assurance-program"
+version = "0.1.0"
+edition = "2021"
+description = "Bank-Assurance Program for Solana Blockchain"
+authors = ["Bank-Assurance Team"]
+
+[features]
+no-entrypoint = []
+
+[dependencies]
+solana-program = "1.16.0"
+thiserror = "1.0.40"
+borsh = "0.10.3"
+spl-token = { version = "4.0", features = ["no-entrypoint"] }
+
+[dev-dependencies]
+solana-program-test = "1.16.0"
+solana-sdk = "1.16.0"
+
+[lib]
+crate-type = ["cdylib", "lib"] 

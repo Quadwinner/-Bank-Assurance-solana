@@ -1,0 +1,14 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/claims": "pages/claims.js",
+  "/claims/[id]": "pages/claims/[id].js",
+  "/": "pages/index.js",
+  "/products/[id]": "pages/products/[id].js",
+  "/products/[id]/purchase": "pages/products/[id]/purchase.js",
+  "/products": "pages/products.js",
+  "/claims/new": "pages/claims/new.js",
+  "/policies": "pages/policies.js",
+  "/policies/[id]/claim": "pages/policies/[id]/claim.js"
+}
